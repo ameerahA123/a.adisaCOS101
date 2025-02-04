@@ -1,0 +1,1 @@
+C:\Users\AMEERAH\ ADISA\Documents\a.adisaCOS101\PHYSICS\ MA\ CARBON\ FOOT\ PRINT\ GR\ 18\physics_ma\target\debug\physics_ma.exe: C:\Users\AMEERAH\ ADISA\Documents\a.adisaCOS101\PHYSICS\ MA\ CARBON\ FOOT\ PRINT\ GR\ 18\physics_ma\src\main.rs
